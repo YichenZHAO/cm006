@@ -1,0 +1,10 @@
+ggvis
+rCharts
+d3.js:     for JAVA
+
+For questions in R:
+stackoverflow
+- search: suprress legend [ggplots]
+
+Rmd -> md -> html
+R -> Rmd -> md -> html
