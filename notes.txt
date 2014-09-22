@@ -8,3 +8,7 @@ stackoverflow
 
 Rmd -> md -> html
 R -> Rmd -> md -> html
+
+Mapping and Setting are different!!!
+Mapping: aes(X)  # must be involved in aes
+Setting: alpha / size  # add in "geom_point"
