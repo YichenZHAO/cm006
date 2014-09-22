@@ -24,3 +24,5 @@ plot(gDat)
 
 
 ## what do regular comment look like?
+
+#' To convert to Rmd, you just need to "Compile Notebook" which is up on the tool bar!!
